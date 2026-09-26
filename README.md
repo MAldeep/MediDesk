@@ -10,12 +10,13 @@ MediDesk is a comprehensive, multi-tenant clinic management SaaS platform engine
 
 ---
 
-## 🔗 Project Repositories & Submodules
+## 🔗 Live Demo & Repositories
 
-The platform is architected into a client-server structure. You can navigate directly to the individual repositories below:
+- Live Demo :\*\* [MediDesk Live Demo](https://medi-desk-frontend.vercel.app/)
+  The platform is architected into a client-server structure. You can navigate directly to the individual repositories below:
 
-- **🎨 Frontend Repository (App Router):** [MediDesk Client Repo](https://github.com/MAldeep/mediDesk_frontend)
-- **⚙️ Backend Repository (RESTful API):** [MediDesk Server Repo](https://github.com/MAldeep/MediDesk_Backend)
+- ** Frontend Repository (App Router):** [MediDesk Client Repo](https://github.com/MAldeep/mediDesk_frontend)
+- ** Backend Repository (RESTful API):** [MediDesk Server Repo](https://github.com/MAldeep/MediDesk_Backend)
 
 ---
 
@@ -32,15 +33,19 @@ The platform is architected into a client-server structure. You can navigate dir
 - High-resolution Lightbox viewer for detailed scan inspection.
 - Secure image deletion syncing Cloudinary assets with MongoDB arrays ($pull).
 
-### 🛡️ Role-Based Access Control (RBAC) & Team Management
+🛡️ Role-Based Access Control (RBAC) & Team Management
 
 - Multi-tier authorization matrix (**Admin**, **Doctor**, **Staff/Assistant**).
 - Dynamic User Invitation System with secure email/token assignment.
 - Granular permission hooks enforcing strict access control on sensitive clinical operations.
 
-### 📅 Appointment Scheduling _(In Progress)_
+📅 Comprehensive Appointment Scheduling System
 
-- Real-time appointment creation, status tracking, and schedule conflict prevention.
+End-to-end appointment lifecycle management (Scheduled, Completed, Cancelled).
+
+Real-time appointment creation, status tracking, and automated schedule conflict prevention.
+
+Dynamic filtering by date, practitioner, and patient status to streamline daily clinic operations.
 
 ---
 
