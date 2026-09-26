@@ -13,7 +13,10 @@ MediDesk is a comprehensive, multi-tenant clinic management SaaS platform engine
 ## 🔗 Live Demo & Repositories
 
 - Live Demo :\*\* [MediDesk Live Demo](https://medi-desk-frontend.vercel.app/)
-  The platform is architected into a client-server structure. You can navigate directly to the individual repositories below:
+
+---
+
+The platform is architected into a client-server structure. You can navigate directly to the individual repositories below:
 
 - ** Frontend Repository (App Router):** [MediDesk Client Repo](https://github.com/MAldeep/mediDesk_frontend)
 - ** Backend Repository (RESTful API):** [MediDesk Server Repo](https://github.com/MAldeep/MediDesk_Backend)
